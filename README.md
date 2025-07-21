@@ -26,7 +26,7 @@ The file includes the full concept, architecture, and ownership declaration of E
 
 ## ❗️Not Affiliated  
 This project is **not connected to any prior chatbot, SVM/NLP assistant**, or unrelated project using the name “Elara,” including:
-- “Evolving Language Adaptive Response Agent” or similar
+- “Emotional Learning Artificial Realtime Agent"
 - AI agents built with traditional NLP pipelines
 
 This Elara is a **unique, emotionally intelligent realtime desktop assistant**, as detailed in the PDF.
